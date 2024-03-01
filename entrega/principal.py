@@ -1,3 +1,5 @@
 print("taller AIPython")
 print()
 print("hola","soy","Carlos")
+print('prueba separador','funcion sep',sep="*")
+print("probando argumentos","soy el segundo argumento",end='-')
