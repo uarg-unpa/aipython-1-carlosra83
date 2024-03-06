@@ -1,6 +1,4 @@
 # Punto 1 utilizando la funcion print()
-# inciso a
-print("Las máquinas me sorprenden con mucha frecuencia")
 # inciso b
 print()
 # inciso c
@@ -51,18 +49,18 @@ print("Calle: Libertad" "\t","\t" "Numero: 762","\t" "Codigo Postal: 9400")
 edad=int(input("ingrese su edad: "))
 if edad > 18:
     print("es mayor de edad")
-    else:
-print("es menor de edad")
+else:
+    print("es menor de edad")
 # 
 calificacion=int(input("ingrese calificacion: "))
 if calificacion >=90:
     print("Excelente")
 else: 
-   if calificacion >=80:
+    if calificacion >=80:
       print("Muy bien")
-      else:
-      if calificacion >=70:
+    else:
+        if calificacion >=70:
          print("Bien")
-         else:
+        else:
          print("insuficiente")
    

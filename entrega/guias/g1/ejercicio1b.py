@@ -1,0 +1,2 @@
+# inciso b
+print()
